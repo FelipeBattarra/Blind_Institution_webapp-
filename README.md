@@ -1,7 +1,7 @@
 --
 
 ### 📌 **README para o Blind Institution WebApp**
-```md
+
 # Blind Institution WebApp 🌐  
 
 A web application designed to assist visually impaired individuals in accessing essential services.  
